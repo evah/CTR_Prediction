@@ -30,6 +30,7 @@
 ### Pandas
 * [Official Tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 * [Time Series Analysis with Pandas](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [sklearn tutorial(NLP)](http://scikit-learn.org/stable/tutorial/) 
 
 
 ### Python visualization
