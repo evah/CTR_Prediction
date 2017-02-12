@@ -5,7 +5,10 @@
 
 
 ### Usual Methodology
-* [kaggle Avazu Competition](https://www.kaggle.com/c/avazu-ctr-prediction)
+* Kaggle
+  * [Avazu Competition](https://www.kaggle.com/c/avazu-ctr-prediction)
+  * [Outbrain Competition](https://www.kaggle.com/c/outbrain-click-prediction)
+     * [pyspark for data processing](https://github.com/gabrielspmoreira/static_resources/blob/gh-pages/Kaggle-Outbrain-PageViews_EventsAnalytics.ipynb)
 * Kaggle methodology summary
   * [link 1](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
   * [link 2](./ref/ClickThroughRate2015.pdf)
