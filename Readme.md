@@ -1,5 +1,8 @@
 # Click Through Rate Prediction
 
+### Computational Advertising Related Terminology
+* [CTR, CPC, CPA, CR](http://www.regalix.com/by_regalix/insights/blogs/four-cs-ppc-ctr-cpc-cpa-cr/)
+
 
 ### Usual Methodology
 * [kaggle Avazu Competition](https://www.kaggle.com/c/avazu-ctr-prediction)
