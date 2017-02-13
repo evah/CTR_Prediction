@@ -12,6 +12,7 @@
 * Kaggle methodology summary
   * [link 1](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
   * [link 2](./ref/ClickThroughRate2015.pdf)
+  * [winning solution](https://github.com/guestwalk/kaggle-avazu) 
 * deep learning in CTR prediction
     * Prof Zhang's [work](https://github.com/wnzhang/deep-ctr)
     * [Text Regression](https://blog.deepomatic.com/text-regression-for-click-through-rate-prediction-using-convnet-9f43971e12c#.9yarc7hbb)
@@ -21,6 +22,7 @@
   * [Avazu competition](https://github.com/owenzhang/kaggle-avazu)
 * class
   * Stanford [Computational Advertising](http://web.stanford.edu/class/msande239/)
+  * CMU
 
 
 ### Methodology for rare/new ads
