@@ -34,10 +34,19 @@
 * [Time Series Analysis with Pandas](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 * [sklearn tutorial(NLP)](http://scikit-learn.org/stable/tutorial/) 
 
-
 ### Python visualization
 * [simple CTR analysis](https://github.com/jfraj/click-through)
 * [visualization tool](./ref/EECS-2016-64.pdf)
+
+### Python useful packages
+* Collections - [Counter class](http://pymbook.readthedocs.io/en/latest/collections.html) 
+* [re - python regular expressions](https://developers.google.com/edu/python/regular-expressions) 
+
+### Python Cheatsheet
+* [common methods and data structures](https://github.com/kishkaru/Programming-Cheatsheets/blob/master/python%20cheatsheet.py) 
+
+### Python Algorithm
+https://github.com/bmanturner/CS303-python
 
 ### Spark
 * [Application Frame 1](./ref/Spark在计算广告领域的应用实践.pdf)
