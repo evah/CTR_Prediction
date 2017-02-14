@@ -2,6 +2,9 @@
 
 ### Computational Advertising Related Terminology
 * [CTR, CPC, CPA, CR](http://www.regalix.com/by_regalix/insights/blogs/four-cs-ppc-ctr-cpc-cpa-cr/)
+* How is the sponsored ad rank decided? (TBD)
+* How to predict CTR? (TBD)
+* HOw to decide price according to predicted CTR? (TBD)
 
 
 ### Usual Methodology
@@ -24,10 +27,26 @@
   * Stanford [Computational Advertising](http://web.stanford.edu/class/msande239/)
   * CMU
 
-
 ### Methodology for rare/new ads
 * [multi-armed bandit](http://yelp.github.io/MOE/bandit.html)
 * [Bayesian](http://www.marketingdistillery.com/2014/09/24/bayesian-modeling-of-click-through-rate-for-small-data/)
+
+### Model performance matrix
+Classification error measurement
+* AUC
+* Somer’s D 
+* Logloss
+* MSE
+* recall
+* precision
+Regression error measurement
+* RMSE 
+Variance-based error and Bias-based error 
+* [Understanding Bias-Variance trade-off](http://scott.fortmann-roe.com/docs/BiasVariance.html) 
+* [wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) 
+
+### Design (A/B) Tests
+* [different design and test scheme](./) (TBD) 
 
 ### Pandas
 * [Official Tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
